@@ -6,28 +6,28 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-11/BannerBF/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-11/BannerBF/index.html
 
 ### }
 
 ## Codepen {
 
-### https://codepen.io/vladimirsaenko/pen/XWRXdRp
+### https://codepen.io/volodymyrsaienko240/pen/XWRXdRp
 
 ### }
 
 ## Cruella-Banner {
 
-### https://github.com/VladimirSaenko/Cruella-Banner
+### https://github.com/volodymyrsaienko240/Cruella-Banner
 
-### https://vladimirsaenko.github.io/Cruella-Banner/
+### https://volodymyrsaienko240.github.io/Cruella-Banner/
 
 ### }
 
 ## Black & White {
 
-### https://github.com/VladimirSaenko/Black-White-Banner-site
+### https://github.com/volodymyrsaienko240/Black-White-Banner-site
 
-### https://vladimirsaenko.github.io/Black-White-Banner-site/
+### https://volodymyrsaienko240.github.io/Black-White-Banner-site/
 
 ### }
